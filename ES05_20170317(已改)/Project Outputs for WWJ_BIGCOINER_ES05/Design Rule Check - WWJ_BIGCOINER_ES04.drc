@@ -1,0 +1,309 @@
+Protel Design System Design Rule Check
+PCB File : E:\Project\AD_project\personal_project\ES05_20170317(ря╦д)\WWJ_BIGCOINER_ES04.PcbDoc
+Date     : 2018-3-23
+Time     : 23:10:26
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=100mil) (Preferred=8mil) (All)
+Rule Violations :0
+
+Processing Rule : Routing Layers(All)
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=12mil) (MaxHoleWidth=90mil) (PreferredHoleWidth=12mil) (MinWidth=18mil) (MaxWidth=100mil) (PreferedWidth=18mil) (All)
+Rule Violations :0
+
+Processing Rule : Fabrication Testpoint Usage (Valid =One Required, Allow multiple per net=No) (All)
+   Violation between Fabrication Testpoint Usage: Net AGND
+   Violation between Fabrication Testpoint Usage: Net AGND
+   Violation between Fabrication Testpoint Usage: Net ALARM
+   Violation between Fabrication Testpoint Usage: Net ALARM
+   Violation between Fabrication Testpoint Usage: Net A
+   Violation between Fabrication Testpoint Usage: Net A
+   Violation between Fabrication Testpoint Usage: Net BOOT0
+   Violation between Fabrication Testpoint Usage: Net B
+   Violation between Fabrication Testpoint Usage: Net B
+   Violation between Fabrication Testpoint Usage: Net BUTTON1
+   Violation between Fabrication Testpoint Usage: Net BUTTON1
+   Violation between Fabrication Testpoint Usage: Net BUTTON2
+   Violation between Fabrication Testpoint Usage: Net BUTTON2
+   Violation between Fabrication Testpoint Usage: Net BUZZER
+   Violation between Fabrication Testpoint Usage: Net C_EYE1
+   Violation between Fabrication Testpoint Usage: Net C_EYE1
+   Violation between Fabrication Testpoint Usage: Net C_EYE2
+   Violation between Fabrication Testpoint Usage: Net C_LED
+   Violation between Fabrication Testpoint Usage: Net C_LED
+   Violation between Fabrication Testpoint Usage: Net CASHER1
+   Violation between Fabrication Testpoint Usage: Net CASHER1
+   Violation between Fabrication Testpoint Usage: Net CASHER2
+   Violation between Fabrication Testpoint Usage: Net CASHER2
+   Violation between Fabrication Testpoint Usage: Net COINBTN
+   Violation between Fabrication Testpoint Usage: Net COINBTN
+   Violation between Fabrication Testpoint Usage: Net MPU_INT
+   Violation between Fabrication Testpoint Usage: Net MPU_INT
+   Violation between Fabrication Testpoint Usage: Net CTR1
+   Violation between Fabrication Testpoint Usage: Net CTR1
+   Violation between Fabrication Testpoint Usage: Net CTR2
+   Violation between Fabrication Testpoint Usage: Net CTR2
+   Violation between Fabrication Testpoint Usage: Net DB9_RX
+   Violation between Fabrication Testpoint Usage: Net DB9_RX
+   Violation between Fabrication Testpoint Usage: Net DB9_TX
+   Violation between Fabrication Testpoint Usage: Net DB9_TX
+   Violation between Fabrication Testpoint Usage: Net ESP_07_RST
+   Violation between Fabrication Testpoint Usage: Net EYE1
+   Violation between Fabrication Testpoint Usage: Net EYE1
+   Violation between Fabrication Testpoint Usage: Net EYE2
+   Violation between Fabrication Testpoint Usage: Net EYE2
+   Violation between Fabrication Testpoint Usage: Net FSMC_A16
+   Violation between Fabrication Testpoint Usage: Net FSMC_A16
+   Violation between Fabrication Testpoint Usage: Net FSMC_D0
+   Violation between Fabrication Testpoint Usage: Net FSMC_D0
+   Violation between Fabrication Testpoint Usage: Net FSMC_D1
+   Violation between Fabrication Testpoint Usage: Net FSMC_D1
+   Violation between Fabrication Testpoint Usage: Net FSMC_D2
+   Violation between Fabrication Testpoint Usage: Net FSMC_D2
+   Violation between Fabrication Testpoint Usage: Net FSMC_D3
+   Violation between Fabrication Testpoint Usage: Net FSMC_D3
+   Violation between Fabrication Testpoint Usage: Net FSMC_D4
+   Violation between Fabrication Testpoint Usage: Net FSMC_D4
+   Violation between Fabrication Testpoint Usage: Net FSMC_D5
+   Violation between Fabrication Testpoint Usage: Net FSMC_D5
+   Violation between Fabrication Testpoint Usage: Net FSMC_D6
+   Violation between Fabrication Testpoint Usage: Net FSMC_D6
+   Violation between Fabrication Testpoint Usage: Net FSMC_D7
+   Violation between Fabrication Testpoint Usage: Net FSMC_D7
+   Violation between Fabrication Testpoint Usage: Net FSMC_D8
+   Violation between Fabrication Testpoint Usage: Net FSMC_D8
+   Violation between Fabrication Testpoint Usage: Net FSMC_D9
+   Violation between Fabrication Testpoint Usage: Net FSMC_D9
+   Violation between Fabrication Testpoint Usage: Net FSMC_D10
+   Violation between Fabrication Testpoint Usage: Net FSMC_D10
+   Violation between Fabrication Testpoint Usage: Net FSMC_D11
+   Violation between Fabrication Testpoint Usage: Net FSMC_D11
+   Violation between Fabrication Testpoint Usage: Net FSMC_D12
+   Violation between Fabrication Testpoint Usage: Net FSMC_D12
+   Violation between Fabrication Testpoint Usage: Net FSMC_D13
+   Violation between Fabrication Testpoint Usage: Net FSMC_D13
+   Violation between Fabrication Testpoint Usage: Net FSMC_D14
+   Violation between Fabrication Testpoint Usage: Net FSMC_D14
+   Violation between Fabrication Testpoint Usage: Net FSMC_D15
+   Violation between Fabrication Testpoint Usage: Net FSMC_D15
+   Violation between Fabrication Testpoint Usage: Net FSMC_NE1
+   Violation between Fabrication Testpoint Usage: Net FSMC_NE1
+   Violation between Fabrication Testpoint Usage: Net FSMC_NOE
+   Violation between Fabrication Testpoint Usage: Net FSMC_NOE
+   Violation between Fabrication Testpoint Usage: Net FSMC_NWE
+   Violation between Fabrication Testpoint Usage: Net FSMC_NWE
+   Violation between Fabrication Testpoint Usage: Net GND
+   Violation between Fabrication Testpoint Usage: Net GND
+   Violation between Fabrication Testpoint Usage: Net IIC_SCL
+   Violation between Fabrication Testpoint Usage: Net IIC_SCL
+   Violation between Fabrication Testpoint Usage: Net IIC_SDA
+   Violation between Fabrication Testpoint Usage: Net KB_C1
+   Violation between Fabrication Testpoint Usage: Net KB_C1
+   Violation between Fabrication Testpoint Usage: Net KB_C2
+   Violation between Fabrication Testpoint Usage: Net KB_C2
+   Violation between Fabrication Testpoint Usage: Net KB_C3
+   Violation between Fabrication Testpoint Usage: Net KB_C3
+   Violation between Fabrication Testpoint Usage: Net KB_R1
+   Violation between Fabrication Testpoint Usage: Net KB_R1
+   Violation between Fabrication Testpoint Usage: Net KB_R2
+   Violation between Fabrication Testpoint Usage: Net KB_R2
+   Violation between Fabrication Testpoint Usage: Net KB_R3
+   Violation between Fabrication Testpoint Usage: Net KB_R3
+   Violation between Fabrication Testpoint Usage: Net KB_R4
+   Violation between Fabrication Testpoint Usage: Net KB_R4
+   Violation between Fabrication Testpoint Usage: Net LED-
+   Violation between Fabrication Testpoint Usage: Net LED-
+   Violation between Fabrication Testpoint Usage: Net MOTOR_CTR
+   Violation between Fabrication Testpoint Usage: Net MOTOR_CTR
+   Violation between Fabrication Testpoint Usage: Net MOTOR_DC_CTR
+   Violation between Fabrication Testpoint Usage: Net MOTOR_DC_CTR
+   Violation between Fabrication Testpoint Usage: Net MOTOR_N
+   Violation between Fabrication Testpoint Usage: Net MOTOR_N
+   Violation between Fabrication Testpoint Usage: Net MOTOR_P
+   Violation between Fabrication Testpoint Usage: Net MOTOR_P
+   Violation between Fabrication Testpoint Usage: Net NetB1_2
+   Violation between Fabrication Testpoint Usage: Net NetB1_2
+   Violation between Fabrication Testpoint Usage: Net NetC43_1
+   Violation between Fabrication Testpoint Usage: Net NetC43_2
+   Violation between Fabrication Testpoint Usage: Net NetC43_2
+   Violation between Fabrication Testpoint Usage: Net NetC35_1
+   Violation between Fabrication Testpoint Usage: Net NetC11_1
+   Violation between Fabrication Testpoint Usage: Net NetC11_2
+   Violation between Fabrication Testpoint Usage: Net NetC6_1
+   Violation between Fabrication Testpoint Usage: Net NetC6_2
+   Violation between Fabrication Testpoint Usage: Net NetC10_1
+   Violation between Fabrication Testpoint Usage: Net NetC4_1
+   Violation between Fabrication Testpoint Usage: Net NetC38_1
+   Violation between Fabrication Testpoint Usage: Net NetC37_1
+   Violation between Fabrication Testpoint Usage: Net NetC24_1
+   Violation between Fabrication Testpoint Usage: Net NetC18_2
+   Violation between Fabrication Testpoint Usage: Net NetC12_2
+   Violation between Fabrication Testpoint Usage: Net NetC19_1
+   Violation between Fabrication Testpoint Usage: Net NetC8_1
+   Violation between Fabrication Testpoint Usage: Net NetC8_2
+   Violation between Fabrication Testpoint Usage: Net NetC3_1
+   Violation between Fabrication Testpoint Usage: Net NetC3_2
+   Violation between Fabrication Testpoint Usage: Net NetC5_1
+   Violation between Fabrication Testpoint Usage: Net NetC2_1
+   Violation between Fabrication Testpoint Usage: Net NetD9_2
+   Violation between Fabrication Testpoint Usage: Net NetD7_1
+   Violation between Fabrication Testpoint Usage: Net NetD7_1
+   Violation between Fabrication Testpoint Usage: Net NetD8_1
+   Violation between Fabrication Testpoint Usage: Net NetD8_1
+   Violation between Fabrication Testpoint Usage: Net NetD1_1
+   Violation between Fabrication Testpoint Usage: Net NetD4_1
+   Violation between Fabrication Testpoint Usage: Net NetD4_1
+   Violation between Fabrication Testpoint Usage: Net NetP17_2
+   Violation between Fabrication Testpoint Usage: Net NetP17_2
+   Violation between Fabrication Testpoint Usage: Net NetC106_2
+   Violation between Fabrication Testpoint Usage: Net NetC107_2
+   Violation between Fabrication Testpoint Usage: Net NetC108_2
+   Violation between Fabrication Testpoint Usage: Net NetQ2_B
+   Violation between Fabrication Testpoint Usage: Net NetQ1_B
+   Violation between Fabrication Testpoint Usage: Net NetR63_1
+   Violation between Fabrication Testpoint Usage: Net NetR64_2
+   Violation between Fabrication Testpoint Usage: Net NetR42_1
+   Violation between Fabrication Testpoint Usage: Net NetR45_1
+   Violation between Fabrication Testpoint Usage: Net NetR50_1
+   Violation between Fabrication Testpoint Usage: Net NetR54_1
+   Violation between Fabrication Testpoint Usage: Net NetR25_1
+   Violation between Fabrication Testpoint Usage: Net NetR29_1
+   Violation between Fabrication Testpoint Usage: Net NetR32_2
+   Violation between Fabrication Testpoint Usage: Net NetR33_1
+   Violation between Fabrication Testpoint Usage: Net NetR38_1
+   Violation between Fabrication Testpoint Usage: Net NetR1_1
+   Violation between Fabrication Testpoint Usage: Net NetR19_2
+   Violation between Fabrication Testpoint Usage: Net NetR19_2
+   Violation between Fabrication Testpoint Usage: Net NetR18_2
+   Violation between Fabrication Testpoint Usage: Net NetR18_2
+   Violation between Fabrication Testpoint Usage: Net NetR16_2
+   Violation between Fabrication Testpoint Usage: Net NetR13_2
+   Violation between Fabrication Testpoint Usage: Net NetR27_2
+   Violation between Fabrication Testpoint Usage: Net NetR81_2
+   Violation between Fabrication Testpoint Usage: Net NetR47_2
+   Violation between Fabrication Testpoint Usage: Net NetR10_2
+   Violation between Fabrication Testpoint Usage: Net NetR9_2
+   Violation between Fabrication Testpoint Usage: Net NRST
+   Violation between Fabrication Testpoint Usage: Net NRST
+   Violation between Fabrication Testpoint Usage: Net NUART4_RX
+   Violation between Fabrication Testpoint Usage: Net NUART4_TX
+   Violation between Fabrication Testpoint Usage: Net PWRCTL1
+   Violation between Fabrication Testpoint Usage: Net PWRCTL1
+   Violation between Fabrication Testpoint Usage: Net S1
+   Violation between Fabrication Testpoint Usage: Net S1
+   Violation between Fabrication Testpoint Usage: Net S2
+   Violation between Fabrication Testpoint Usage: Net S2
+   Violation between Fabrication Testpoint Usage: Net SPI2_CLK
+   Violation between Fabrication Testpoint Usage: Net SPI2_CLK
+   Violation between Fabrication Testpoint Usage: Net SPI2_CS
+   Violation between Fabrication Testpoint Usage: Net SPI2_CS
+   Violation between Fabrication Testpoint Usage: Net SPI2_MISO
+   Violation between Fabrication Testpoint Usage: Net SPI2_MISO
+   Violation between Fabrication Testpoint Usage: Net SPI2_MOSI
+   Violation between Fabrication Testpoint Usage: Net SPI2_MOSI
+   Violation between Fabrication Testpoint Usage: Net TCK
+   Violation between Fabrication Testpoint Usage: Net TCK
+   Violation between Fabrication Testpoint Usage: Net TDI
+   Violation between Fabrication Testpoint Usage: Net TDI
+   Violation between Fabrication Testpoint Usage: Net TDO
+   Violation between Fabrication Testpoint Usage: Net TDO
+   Violation between Fabrication Testpoint Usage: Net TFT_RST
+   Violation between Fabrication Testpoint Usage: Net TFT_RST
+   Violation between Fabrication Testpoint Usage: Net TMS
+   Violation between Fabrication Testpoint Usage: Net TMS
+   Violation between Fabrication Testpoint Usage: Net TRST
+   Violation between Fabrication Testpoint Usage: Net TRST
+   Violation between Fabrication Testpoint Usage: Net UART1_RX
+   Violation between Fabrication Testpoint Usage: Net UART1_RX
+   Violation between Fabrication Testpoint Usage: Net UART1_TX
+   Violation between Fabrication Testpoint Usage: Net UART1_TX
+   Violation between Fabrication Testpoint Usage: Net UART2_RX
+   Violation between Fabrication Testpoint Usage: Net UART2_RX
+   Violation between Fabrication Testpoint Usage: Net UART2_TX
+   Violation between Fabrication Testpoint Usage: Net UART3_RX
+   Violation between Fabrication Testpoint Usage: Net UART3_RX
+   Violation between Fabrication Testpoint Usage: Net UART3_TX
+   Violation between Fabrication Testpoint Usage: Net UART3_TX
+   Violation between Fabrication Testpoint Usage: Net UART4_RX
+   Violation between Fabrication Testpoint Usage: Net UART4_RX
+   Violation between Fabrication Testpoint Usage: Net UART4_TX
+   Violation between Fabrication Testpoint Usage: Net UART4_TX
+   Violation between Fabrication Testpoint Usage: Net UART5_RX
+   Violation between Fabrication Testpoint Usage: Net UART5_TX
+   Violation between Fabrication Testpoint Usage: Net UART6_RX
+   Violation between Fabrication Testpoint Usage: Net UART6_RX
+   Violation between Fabrication Testpoint Usage: Net UART6_TX
+   Violation between Fabrication Testpoint Usage: Net UART6_TX
+   Violation between Fabrication Testpoint Usage: Net VCAP_1
+   Violation between Fabrication Testpoint Usage: Net VCAP_2
+   Violation between Fabrication Testpoint Usage: Net VCC3.3
+   Violation between Fabrication Testpoint Usage: Net VCC3.3
+   Violation between Fabrication Testpoint Usage: Net VCC5_OUT
+   Violation between Fabrication Testpoint Usage: Net VCC5_OUT
+   Violation between Fabrication Testpoint Usage: Net VCC5
+   Violation between Fabrication Testpoint Usage: Net VCC5
+   Violation between Fabrication Testpoint Usage: Net VCC12_OUT
+   Violation between Fabrication Testpoint Usage: Net VCC12_OUT
+   Violation between Fabrication Testpoint Usage: Net VCC12
+   Violation between Fabrication Testpoint Usage: Net VCC12
+   Violation between Fabrication Testpoint Usage: Net VCC24_I
+   Violation between Fabrication Testpoint Usage: Net VCC24_I
+   Violation between Fabrication Testpoint Usage: Net VCC24IN
+   Violation between Fabrication Testpoint Usage: Net VCC24IN
+   Violation between Fabrication Testpoint Usage: Net VCC24
+   Violation between Fabrication Testpoint Usage: Net VCC24
+   Violation between Fabrication Testpoint Usage: Net VCC-5
+   Violation between Fabrication Testpoint Usage: Net VCC-5
+   Violation between Fabrication Testpoint Usage: Net XUART4_RX
+   Violation between Fabrication Testpoint Usage: Net XUART4_RX
+   Violation between Fabrication Testpoint Usage: Net XUART4_TX
+   Violation between Fabrication Testpoint Usage: Net XUART4_TX
+   Violation between Fabrication Testpoint Usage: Net XUART5_RX
+   Violation between Fabrication Testpoint Usage: Net XUART5_RX
+   Violation between Fabrication Testpoint Usage: Net XUART5_TX
+   Violation between Fabrication Testpoint Usage: Net XUART5_TX
+   Violation between Fabrication Testpoint Usage: Net XUART6_RX
+   Violation between Fabrication Testpoint Usage: Net XUART6_RX
+   Violation between Fabrication Testpoint Usage: Net XUART6_TX
+   Violation between Fabrication Testpoint Usage: Net XUART6_TX
+   Violation between Fabrication Testpoint Usage: Net LED2812
+   Violation between Fabrication Testpoint Usage: Net LED2812
+   Violation between Fabrication Testpoint Usage: Net NetC13_2
+   Violation between Fabrication Testpoint Usage: Net SPI1_CS
+   Violation between Fabrication Testpoint Usage: Net SPI1_MISO
+   Violation between Fabrication Testpoint Usage: Net SPI1_MISO
+   Violation between Fabrication Testpoint Usage: Net SPI1_MOSI
+   Violation between Fabrication Testpoint Usage: Net SPI1_SCK
+   Violation between Fabrication Testpoint Usage: Net SPI2_RESET
+   Violation between Fabrication Testpoint Usage: Net SPI2_RESET
+   Violation between Fabrication Testpoint Usage: Net NetR2_1
+Rule Violations :265
+
+Processing Rule : Fabrication Testpoint Style (Under Component=Yes) ((IsPad And (OnTopLayer Or OnBottomLayer)))
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 10mil, Vertical Gap = 10mil ) (Disabled)(All),(All) 
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=10mil) (Max=10mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+
+Violations Detected : 265
+Time Elapsed        : 00:00:03
